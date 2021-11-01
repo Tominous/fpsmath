@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://fpsmath.xyz/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/changelog/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/games/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/getting-started/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/commands/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/commands/math/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://fpsmath.xyz/commands/misc/</loc>
-         <lastmod>2021-10-31</lastmod>
+         <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
